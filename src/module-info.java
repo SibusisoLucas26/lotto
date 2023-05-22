@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sibusiso
+ *
+ */
+module LottoPredictor {
+}
